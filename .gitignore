@@ -39,6 +39,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+session/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -64,6 +65,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+*.rar
 
 # Yarn Integrity file
 .yarn-integrity

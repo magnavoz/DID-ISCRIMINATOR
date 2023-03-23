@@ -1,0 +1,22 @@
+{
+  "name": "lectura_correos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js"
+  },
+  "author": "Anthony QM",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "html-table-to-json": "^1.0.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.5.0",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-user-preferences": "^2.3.1"
+  }
+}
